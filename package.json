@@ -1,0 +1,16 @@
+{
+  "name": "kn-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js debug",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "color": "^4.2.3"
+  }
+}
